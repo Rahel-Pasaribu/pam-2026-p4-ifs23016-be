@@ -3,7 +3,7 @@
 ############################################
 
 # @BaseUrl = https://pam-2026-p4-ifs23016-be.delcom.org:8080
-@BaseUrl = http://127.0.0.1:8000
+@BaseUrl = https://pam-2026-p4-ifs23016-be.rahel.fun:8080/
 
 @plantId =
 @bookId =
